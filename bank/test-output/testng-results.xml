@@ -8,19 +8,19 @@
       <![CDATA[Welcome to  Login page ]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6271" started-at="2022-03-30T15:59:36Z" finished-at="2022-03-30T15:59:42Z">
+  <suite name="Suite" duration-ms="5397" started-at="2022-03-30T17:45:29Z" finished-at="2022-03-30T17:45:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6271" started-at="2022-03-30T15:59:36Z" finished-at="2022-03-30T15:59:42Z">
+    <test name="Test" duration-ms="5397" started-at="2022-03-30T17:45:29Z" finished-at="2022-03-30T17:45:35Z">
       <class name="com.ibanking.testcases.TC_login01">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.ibanking.testcases.TC_login01@7bba5817]" name="beforeClass" is-config="true" duration-ms="4089" started-at="2022-03-30T15:59:36Z" finished-at="2022-03-30T15:59:40Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.ibanking.testcases.TC_login01@7bba5817]" name="beforeClass" is-config="true" duration-ms="3398" started-at="2022-03-30T17:45:29Z" finished-at="2022-03-30T17:45:33Z">
           <reporter-output>
             <line>
               <![CDATA[Welcome to  Home page]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:com.ibanking.testcases.TC_login01@7bba5817]" name="LoginTest" duration-ms="1103" started-at="2022-03-30T15:59:40Z" data-provider="Login" finished-at="2022-03-30T15:59:41Z">
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:com.ibanking.testcases.TC_login01@7bba5817]" name="LoginTest" duration-ms="927" started-at="2022-03-30T17:45:33Z" data-provider="Login" finished-at="2022-03-30T17:45:34Z">
           <params>
             <param index="0">
               <value>
@@ -39,11 +39,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.ibanking.testcases.TC_login01@7bba5817]" name="afterClass" is-config="true" duration-ms="643" started-at="2022-03-30T15:59:41Z" finished-at="2022-03-30T15:59:42Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.ibanking.testcases.TC_login01@7bba5817]" name="afterClass" is-config="true" duration-ms="651" started-at="2022-03-30T17:45:34Z" finished-at="2022-03-30T17:45:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.ibanking.testcases.TC_login01 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
